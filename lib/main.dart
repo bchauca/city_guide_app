@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'City Guide App ',
+      title: 'City Guide App Test',
       home: StartScreen(),
       theme: ThemeData(
         primaryColor: Colors.blue,
